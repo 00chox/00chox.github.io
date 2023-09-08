@@ -19,11 +19,13 @@ Users are able to:
 
 ### Screenshots
 
-./decktop.png
-./mobile.png
-./eye.png
-./equilibrium.png
-./jules.png
+![decktop](https://github.com/00chox/00chox.github.io/assets/35866299/f4d4b5ad-da27-4bf9-ba53-a2a5e5aab822)
+![mobile](https://github.com/00chox/00chox.github.io/assets/35866299/d3c76429-66ba-41bf-98da-4080200db2e7)
+![eye](https://github.com/00chox/00chox.github.io/assets/35866299/7a39bf5e-f597-499c-8dad-f71de8eaebaf)
+![equilibrium](https://github.com/00chox/00chox.github.io/assets/35866299/49d33a5e-1739-44a2-bdc1-0c6edfa31ee0)
+![jules](https://github.com/00chox/00chox.github.io/assets/35866299/2c98df40-b487-4821-a2b4-e6f8b2b3715e)
+
+
 
 ### Links
 
